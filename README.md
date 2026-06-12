@@ -1,4 +1,4 @@
-# Supplementary Material for: [Global Explainability of a Deep Abstaining Classifier for Cancer Pathology Reports]
+# Supplementary Material for: Global Explainability of a Deep Abstaining Classifier for Cancer Pathology Reports
 
 This repository contains the supplementary materials and extended analysis for our paper titled **"[Global Explainability of a Deep Abstaining Classifier for Cancer Pathology Reports]"** published in **[IEEE Journal of Biomedical and Health Informatics (JBHI)](https://www.embs.org/jbhi/)**.
 
